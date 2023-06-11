@@ -28,6 +28,11 @@
     margin-right: 100px;
 }
 
+#button {
+    padding: $padding-button;
+    border: 2px solid #fff;
+}
+
 .footer {
     background-color: black;
     height: 15vh;
