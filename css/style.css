@@ -350,6 +350,26 @@
   .container01Content .subTitleHuman {
     font-size: 24px;
   }
+  .containerRightContent {
+    margin-left: 5%;
+  }
+  .containerLeftContent {
+    margin-left: 5%;
+  }
+  .titleSection {
+    font-size: 50px;
+  }
+}
+@media (max-width: 398px) {
+  .container01Content .titleHuman {
+    font-size: 40px;
+  }
+  .container01Content img {
+    width: 100px;
+  }
+  .titleSection {
+    font-size: 35px;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
